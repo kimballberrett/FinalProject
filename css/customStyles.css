@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #6c5b7b;
+    background-color: #f8b891;
+}
+
+li {
+    color: #f67280;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+.nav-links {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.biography {
+    margin-bottom: 30px;
+}
+
+.family-info ul {
+    list-style-type: none;
+}
